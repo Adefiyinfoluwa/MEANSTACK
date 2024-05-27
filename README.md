@@ -24,3 +24,6 @@ MEAN applications can be used in many ways with a cross-platform write-once appr
 - Todo and calendar applications.
   
 - Interactive forums.
+
+  ### Setting up the project
+For this project, we are going to implement a simple Book Register web form using MEAN stack.
